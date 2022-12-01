@@ -35,4 +35,8 @@ Route::get('test/emp/{id}',[App\Http\Controllers\Employee::class,'showOne4']);
 
 Route::get('test/emp13/',[App\Http\Controllers\TestController::class,'showOne13']);
 
+
+
+
+
 ?> 
